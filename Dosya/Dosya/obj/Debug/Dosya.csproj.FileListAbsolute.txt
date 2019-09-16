@@ -1,0 +1,152 @@
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\ApplicationInsights.config
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\csc.exe
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\vbc.exe
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\VBCSCompiler.exe
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Dosya.dll.config
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Dosya.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Dosya.pdb
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.Web.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Helpers.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Mvc.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Razor.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.Deployment.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.Razor.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.Web.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Razor.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.Deployment.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Webpages.Razor.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Helpers.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\System.Web.Mvc.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\obj\Debug\Dosya.csprojResolveAssemblyReference.cache
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\obj\Debug\Dosya.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\obj\Debug\Dosya.pdb
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.TextTemplating.Modeling.14.0.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.Modeling.Sdk.Integration.Shell.14.0.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\VsWebSite.Interop.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\VSLangProj.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\VsWebSite.Interop90.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE80.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.Framework.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.Conversion.Core.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.Tasks.Core.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE90.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\stdole.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.MSXML.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Microsoft.Build.Engine.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\VSLangProj.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE80.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\EnvDTE90.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\en\Microsoft.VisualStudio.Modeling.Sdk.Integration.Shell.14.0.resources.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\PagedList.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\PagedList.Mvc.dll
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\PagedList.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\PagedList.Mvc.xml
+C:\Users\senakilic\Documents\Visual Studio 2015\Projects\Dosya\Dosya\bin\Business.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\ApplicationInsights.config
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\csc.exe
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\vbc.exe
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\VBCSCompiler.exe
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Dosya.dll.config
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Dosya.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Dosya.pdb
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Business.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.Web.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.TextTemplating.Modeling.14.0.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\PagedList.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\PagedList.Mvc.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Helpers.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Mvc.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Razor.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.Deployment.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.Razor.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.Modeling.Sdk.Integration.Shell.14.0.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\VsWebSite.Interop.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\VSLangProj.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\VsWebSite.Interop90.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE80.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.Framework.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.Conversion.Core.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.Tasks.Core.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE90.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\stdole.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.MSXML.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.Build.Engine.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.Web.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\PagedList.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\PagedList.Mvc.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Razor.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.Deployment.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Webpages.Razor.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Helpers.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\System.Web.Mvc.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\VSLangProj.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE80.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\EnvDTE90.xml
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\bin\en\Microsoft.VisualStudio.Modeling.Sdk.Integration.Shell.14.0.resources.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\obj\Debug\Dosya.csprojResolveAssemblyReference.cache
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\obj\Debug\Dosya.dll
+C:\Users\senakilic\Documents\SBBstaj\Dosya\Dosya\obj\Debug\Dosya.pdb

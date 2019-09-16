@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Dosya Yükle";
+}
+<div><center>
+    @using (Html.BeginForm("Process", "File", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @ViewBag.Error
+        <table cellpadding="2" cellspacing="2" style="margin-top:100px">
+            <tr>
+                <td>Txt dosyası</td>
+                <td><input type="file" name="txt" /></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td><input type="submit" value="Yükle" /></td>
+            </tr>
+        </table>
+
+        <span style="color:red">@ViewBag.Hata</span>
+
+        @ViewBag.Mesaj
+    }
+
+
+
+    
+    </center></div>

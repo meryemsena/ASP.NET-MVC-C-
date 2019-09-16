@@ -1,0 +1,83 @@
+﻿@using PagedList.Mvc
+@model  PagedList.StaticPagedList<Dosya.Models.Rapor>
+
+@{
+    ViewBag.Title = "Hareketler";
+}
+
+<style>
+    .ul.pagination {
+        display: inline-block;
+        padding: 0;
+        margin: 0;
+    }
+
+    ul.pagination li {
+        display: inline;
+    }
+
+        ul.pagination li a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            transition: background-color .3s;
+        }
+
+            ul.pagination li a.active {
+                background-color: #4CAF50;
+                color: white;
+            }
+
+            ul.pagination li a:hover:not(.active) {
+                background-color: #ddd;
+            }
+</style>
+@using (Html.BeginForm())
+{
+    <center>
+        
+        <div style="border:1px; margin-left:5%; margin-right:20%; margin-top:80px">
+            <h2>Hareketler</h2>
+            <table class="table table-bordered table-striped" style="width:100%" border="1">
+                <tr>
+                    <th style="width:10%; text-align:left"> @Html.Label("İşlem Tarihi")</th>
+                    <th style="width:10%; text-align:left">@Html.Label("Kart No")</th>
+                    <th style="width:15%; text-align:left">@Html.Label("TC No")</th>
+                    <th style="width:15%; text-align:left">@Html.Label("İşlem Tutarı")</th>
+                    <th style="width:5%; text-align:left">@Html.Label("Hareket Tipi")</th>
+                    <th style="width:15%; text-align:left">@Html.Label("İşlem Adı")</th>
+                    <th style="width:15%; text-align:left">@Html.Label("İşlem Açıklaması")</th>
+                    <th style="width:15%; text-align:left">@Html.Label("Kurum Adı")</th>
+
+                </tr>
+
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <tr style="border:1px ">
+                        <td>@Model[i].hIslemTarih</td>
+                        <td>@Model[i].hKartNo</td>
+                        <td>@Model[i].mTCKimlikNo</td>
+                        <td>@Model[i].hIslemTutariYI</td>
+                        <td>@Model[i].hHareketTipi</td>
+                        <td>@Model[i].iIslemAdi</td>
+                        <td>@Model[i].hIslemAciklamasi</td>
+                        <td>@Model[i].hMerchName</td>
+                    </tr>
+
+                }
+            </table>
+
+
+        </div>
+    </center>
+            <div id="container" style="margin-left: 20px">
+                <p></p>
+                <p></p>
+                <div class="pagination" style="margin-left: 200px">
+                    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+                    of @Model.PageCount   @Html.PagedListPager(Model, page => Url.Action("Hareketler", new { page }))
+                </div>
+            </div>
+
+}

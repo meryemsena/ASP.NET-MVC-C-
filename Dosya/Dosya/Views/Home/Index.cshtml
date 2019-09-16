@@ -1,0 +1,61 @@
+﻿@model System.Data.DataTable
+@{
+    ViewBag.Title = "Kayıt Formu";
+}
+
+<div>
+    <center>
+        <form action="/Home/Index" method="post">
+            <table border="0" style="margin-top:100px;">
+                <tr>
+                    <td colspan="2">
+                        @ViewBag.Mesaj
+                    </td>
+                </tr>
+                <tr>
+                    <td>Adı</td>
+                    <td><input type="text" name="Ad"></td>
+                </tr>
+                <tr>
+                    <td>Soyadı</td>
+                    <td><input type="text" name="soyad"></td>
+                </tr>
+                <tr>
+                    <td>Yaşı</td>
+                    <td><input type="text" name="yas"></td>
+                </tr>
+                <tr>
+                    <td>İşe başlama tarihi</td>
+                    <td>
+                        <input type="text" name="tarih">
+                    </td>
+                </tr>
+            </table><input type="submit" value="Gönder" style="margin:30px;">
+        </form>
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Yaş</th>
+                <th>İşe Başlama Tarihi</th>
+                <th>Seçenek</th>
+            </tr>
+            @for (int i = 0; i < Model.Rows.Count; i++)
+            {
+                <tr>
+                    <td>@Model.Rows[i]["Ad"]</td>
+                    <td>@Model.Rows[i]["Soyad"]</td>
+                    <td>@Model.Rows[i]["Yas"]</td>
+                    <td>@Model.Rows[i]["Tarih"]</td>
+                    <td>
+                        <a href="@Url.Action("Edit","Home",new {@Id=Model.Rows[i]["Id"]})">Güncelle</a>
+                        <a href="@Url.Action("Delete","Home",new {@Id=Model.Rows[i]["Id"]})">Sil</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </center>
+
+</div>
+
+

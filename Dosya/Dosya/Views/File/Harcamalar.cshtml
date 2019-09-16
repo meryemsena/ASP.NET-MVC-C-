@@ -1,0 +1,24 @@
+﻿@model System.Data.DataTable
+@{
+    ViewBag.Title = "Harcamalar";
+}
+
+<div style="margin-top:70px">
+    <center><h2>Harcamalar</h2>
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>Müşteri TC No</th>
+                <th>Toplam Harcama</th>
+            </tr>
+            @for (int i = 0; i < Model.Rows.Count; i++)
+            {
+                <tr>
+                    <td>@Model.Rows[i]["mTCKimlikNo"]</td>
+                    <td>@Model.Rows[i]["mHarcama"]</td>
+                </tr>
+            }
+        </table>
+    </center>
+
+</div>
+

@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Kurum";
+}
+<script src="~/scripts/chart/highcharts.js"></script>
+<script src="~/scripts/chart/exporting.js"></script>
+<div class="jumbotron">
+    <div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+</div>
+<script>
+    Highcharts.chart('container', {
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'En çok alışveriş yapılan 5 market'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>' //percentage ile yüzdelik verir
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.y:.2f} TL',  //.2f ile .dan sonra 2 rakam gösterir
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Oran',
+            colorByPoint: true,
+            data: @Html.Raw( ViewBag.ChartData), //html raw ile veriyi html şeklinde okumadı
+        }]
+    });
+</script>

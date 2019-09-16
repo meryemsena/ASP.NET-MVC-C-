@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "Gunluk";
+}
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/series-label.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+<div id="container"></div>
+<script>
+Highcharts.chart('container', {
+
+  title: {
+    text: 'Günlük Toplam Harcama Miktarları'
+  },
+
+  subtitle: {
+    text: '2018'
+  },
+
+  yAxis: {
+    title: {
+      text: 'Toplam Harcama'
+    }
+  },
+  legend: {
+    layout: 'vertical',
+    align: 'right',
+    verticalAlign: 'middle'
+  },
+
+ xAxis: {
+    type: 'datetime',
+    labels: {
+      format: '{value:%b-%e}'
+    },
+ /*   dateTimeLabelFormats: {
+      day: "%e. %b",
+      month: "%b '%y",
+      year: "%Y"
+    }*/
+ },
+
+ series: [{name: 'Günlük harcama',
+    data: @Html.Raw( ViewBag.GunlukChart),
+  }],
+
+  responsive: {
+    rules: [{
+      condition: {
+        maxWidth: 500
+      },
+      chartOptions: {
+        legend: {
+          layout: 'horizontal',
+          align: 'center',
+          verticalAlign: 'bottom'
+        }
+      }
+    }]
+  }
+
+});
+    </script>

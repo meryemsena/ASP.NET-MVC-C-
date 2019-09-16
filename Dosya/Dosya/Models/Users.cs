@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace Dosya.Models
+{
+    public class Users
+    {
+        public int Id { get; set; }
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+        public int Yas { get; set; }
+        public System.DateTime Tarih { get; set; }
+    }
+}
